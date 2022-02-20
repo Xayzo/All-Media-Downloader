@@ -1,8 +1,8 @@
 {
-  "name": "All-Media-Downloader",
+  "name": "All-Sosial-Media-Downloader",
   "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
   "logo": "https://telegra.ph/file/e8295bbd58a696102c994.jpg",
-  "repository": "https://github.com/Ansaku/All-Media-Downloader",
+  "repository": "https://github.com/Xayzo/All-Sosial-Media-Downloader",
   "keywords": [
     "telegram",
     "best",
@@ -16,9 +16,9 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://t.me/allmediadwnlderbot",
-  "website": "https://github.com/Ansaku",
-  "repository": "https://github.com/Ansaku/All-Media-Downloader",
+  "success_url": "https://t.me/All_Sosmed_Downloader_bot",
+  "website": "https://github.com/Xayzo",
+  "repository": "https://github.com/Xayzo/All-Sosial-Media-Downloader",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -29,21 +29,21 @@
       "value": ""
     },
     "APP_ID": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "Get this value from t.me/ScrapDionRobot",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "Get this value from t.me/ScrapDionRobot",
       "value": ""
     },
     "LOGS_CHANNEL": {
       "description": "id of log channel/group. leave this if you don't want to",
-      "value": "-1001794975559",
+      "value": "-1001609869297",
       "required": false
     },
     "OWNER_ID": {
       "description": "Your Telegram ID",
-      "value": ""
+      "value": "1780335957"
     },
     "DATABASE_URL": {
       "description": "Your MongoDB URI",
