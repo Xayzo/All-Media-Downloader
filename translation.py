@@ -1,8 +1,7 @@
 class Translation(object):
     START_TEXT = """Hai {},
 Anda dapat mengunggah File|Video Ke Telegram dengan tautan langsung, Menggunakan bot ini!
-Situs Dukungan <a href="https://ytdl-org.github.io/youtube-dl/supportedsites.html">HERE</a>
-/help untuk lebih jelasnya!"""
+Ketik /help untuk lebih jelasnya!"""
     FORMAT_SELECTION = "Pilih format yang diinginkan: <a href='{}'>ukuran file mungkin perkiraan</a> \nJika Anda ingin mengatur thumbnail kustom, kirim foto sebelum atau dengan cepat setelah mengetuk salah satu tombol di bawah ini.\nKamu dapat memakai /deletethumbnail untuk menghapus thumbnail yang dibuat secara otomatis."
     SET_CUSTOM_USERNAME_PASSWORD = """Jika Anda ingin mengunduh video premium, berikan dalam format berikut:
 URL | filename | username | password"""
