@@ -6,7 +6,6 @@ import asyncio
 from pyrogram import Client as kinu
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 
-
 from translation import Translation
 
 @kinu.on_callback_query()
