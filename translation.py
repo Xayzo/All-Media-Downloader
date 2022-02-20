@@ -9,17 +9,17 @@ URL | filename | username | password"""
     DOWNLOAD_START = "📥Mengunduh..."
     UPLOAD_START = "📤Mengunggah..."
     RCHD_TG_API_LIMIT = "Diunduh di {} detik.\nUkuran File Terdeteksi: {}\nMaaf. Tapi, saya tidak dapat mengunggah file yang lebih besar dari 2GB karena keterbatasan Telegram API."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Terima kasih telah menggunakan saya \n\n<b>Join @ansakubotchannel Untuk Bot Lebih Berguna Seperti Saya </b>"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Diunduh di {} detik.\nDiunggah di {} detik.\n\n@ansakubotchannel"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Terima kasih telah menggunakan saya \n\n<b>Join @DionProjects Untuk Bot Lebih Berguna Seperti Saya </b>"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Diunduh di {} detik.\nDiunggah di {} detik.\n\n@DionProjects"
     SAVED_CUSTOM_THUMB_NAIL = "Kustom video / file thumbnail disimpan. Gambar ini akan digunakan dalam video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Thumbnail khusus berhasil dihapus."
     CUSTOM_CAPTION_UL_FILE = "{}"
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
     ABOUT_MSG = """ Something About Me :
     
-   ☞My Name  : All Media Downloader
+   ☞My Name  : All Sosial Media Downloader
 
-   ☞Updates  : @ansakubotchannel    
+   ☞Updates  : @DionProjects    
 
    ☞Language : Python3
 
@@ -34,7 +34,7 @@ URL | filename | username | password"""
    Video  - Berikan File sebagai video tanpa Tangkapan Layar
    File   - Berikan File tanpa Tangkapan Layar
 
-Jika bot tidak merespon, Tanya Di Sini @AnkiSatya"""
+Jika bot tidak merespon, Tanya Di @DionSupport atau @Royzu"""
     REPLY_TO_MEDIA_ALBUM_TO_GEN_THUMB = "Membalas /generatecustomthumbnail ke album media, untuk menghasilkan gambar kecil khusus"
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = """Album Media hanya boleh berisi dua foto. Silakan kirim ulang album media, lalu coba lagi, atau kirim hanya dua foto dalam satu album."
 Kamu dapat memakai /rename perintah setelah menerima file untuk mengganti namanya dengan dukungan thumbnail khusus.
