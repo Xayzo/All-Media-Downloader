@@ -46,8 +46,8 @@ async def start(bot, message):
     reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Comment", url="https://t.me/ansakubotchannel/1"),
-                    InlineKeyboardButton("🤖 Updates", url="https://t.me/ansakubotchannel")
+                    InlineKeyboardButton("🔰 Support", url="https://t.me/DionSupport"),
+                    InlineKeyboardButton("🤖 Updates", url="https://t.me/DionProjects")
                 ]
             ]
         ),
